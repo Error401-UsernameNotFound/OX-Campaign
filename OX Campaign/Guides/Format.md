@@ -10,10 +10,10 @@ this file isn't finished yet
 
 ### File Hierarchy
 
-1. Important! "\_" at the beginning is reserved for *main folders* that get accessed continuously for ease of use and stable location.
+1. Important! "\_" at the beginning is reserved for **main folders** that get accessed continuously for ease of use and stable location.
 > ex: **\_World** 
 
-2. *Non-text files* must be placed in a "*{Folder-name} files*" folder. This is to de-clutter folders that are actually used and make it easier to skim for what you want.
+2. **Non-text files** must be placed in a "**{Folder-name} files**" folder. This is to de-clutter folders that are actually used and make it easier to skim for what you want.
 >ex. "**Monster Files**" = a folder holding both attachments to [[Empty Monster]]
 ### Files, Universal
 at the top of the file you MUST place
