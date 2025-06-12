@@ -2,7 +2,7 @@
 Created by Carl Hartmeyer: May 30, 2025
 	Latest edit June 10, 2025
 ```
-v0.0.1
+v0.0.2
 
 KEY PRINCIPLES
 - The hex key is locations, not encounters. (Specific keyed encounters often create context problems since we don't know what group of players will find them, and also need to be refreshed every single time they are encountered.)
@@ -174,17 +174,17 @@ Similarly, a party that identifies a known landmark ceases to be lost and may na
 
 | Terrain         | Navigation DC |
 | --------------- | ------------- |
-| Desert          | 12            |
-| Forest (sparse) | 14            |
-| Forest (medium) | 16            |
-| Forest (dense)  | 18            |
-| Hills           | 14            |
-| Jungle          | 16            |
-| Moor            | 14            |
-| Mountains       | 16            |
-| Plains          | 12            |
-| Swamp           | 15            |
-| Tundra (frozen) | 12            |
+| Desert          | 11            |
+| Forest (sparse) | 12            |
+| Forest (medium) | 14            |
+| Forest (dense)  | 16            |
+| Hills           | 12            |
+| Jungle          | 15            |
+| Moor            | 12            |
+| Mountains       | 14            |
+| Plains          | 10            |
+| Swamp           | 13            |
+| Tundra (frozen) | 11            |
 
 #### Encounters
 If the party is deliberately navigating to a location they've been to before, they are assumed to automatically encounter it once they enter the hex. Unfamiliar locations are encountered through either the [[#Encounter Check]] or a [[#Search]].
