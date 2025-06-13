@@ -1,10 +1,10 @@
 ```
-Created by {Author}: {Date}
+Created by Aaron Brey: June 13 2025
 ```
 Hex based on [[Hexcrawl Procedure]]
 
 Key Location/Landmark:
-> .
+> The city center
 
 Other Landmarks (if applicable):
 > .
@@ -18,7 +18,7 @@ Navigation DC:
 Wandering Encounter Table: 
 >{Region Table}
 
-Connecting Hexes (follows orientation seen in [[veer_diagram.png]])
+Connecting Hexes
 >North:
 >North East:
 >South East:
