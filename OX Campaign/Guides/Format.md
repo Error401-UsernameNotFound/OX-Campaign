@@ -16,6 +16,7 @@ this file isn't finished yet
 2. **Non-text files** must be placed in a "**{Folder-name} files**" folder. This is to de-clutter folders that are actually used and make it easier to skim for what you want.
 >ex. "**Monster Files**" = a folder holding both attachments to [[Empty Monster]]
 ### Files, Universal
+##### Header
 at the top of the file you MUST place
 a box that looks like this
 ```
@@ -33,3 +34,8 @@ Modified by {Author2}: {date2}
 And so on
 
 This allows us to trace changes easily and ask previous contributors questions about what they wrote if that were to come up.
+##### Tabs
+tabs are to be made only with the ">" symbol as that shows up in reading mode and looks cleaner.
+additionally tabs can have unintended effects when seen in reading mode such as
+
+	this
