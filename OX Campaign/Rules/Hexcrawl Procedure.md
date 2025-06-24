@@ -3,9 +3,9 @@ Created by Carl Hartmeyer: May 30, 2025
 Moved by Aaron Brey: June 12, 2025
 Edited by Carl Hartmeyer: June 12, 2025 (v0.0.2)
 Moved again by Aaron Brey: June 13, 2025
-Edited by Carl Hartmeyer: Jun 24, 2025 (v0.0.3)
+Edited by Carl Hartmeyer: Jun 24, 2025 (v0.1.0)
 ```
-v0.0.3
+v0.1.0
 
 KEY PRINCIPLES
 - The hex key is locations, not encounters. (Specific keyed encounters often create context problems since we don't know what group of players will find them, and also need to be refreshed every single time they are encountered.)
