@@ -114,6 +114,13 @@ Active or Travel Watch (see below)
 | Every hour of rain since the trail was made | +1 per hour (+4 per watch) |
 | Fresh snow cover since the trail was made   | +10                        |
 
+##### Trailblazer
+Travel Watch (slow pace only)
+Characters may blaze a trail while traveling at a slow pace. This marks a new trail through the wilderness with some form of signs: paint, simple carvings, cloth flags, etc. Such a trail can then be [[#Navigation by Landmark|easily followed]] by the trailblazers or a future expedition.
+**Hidden Signs**: The signs of a trail can be followed by any creature. When blazing a trail, however, the character making the signs can make a Wisdom (Stealth) check to disguise them so that they can only be noticed or found with a Wisdom (Perception) or Intelligence (Investigation) check.
+You don’t need to make a Wisdom (Perception) check to follow your own hidden signs or the hidden signs of a known trail you’ve followed before. Those who are aware of the trail’s existence but who have not followed it before gain advantage on their Wisdom (Perception) or Intelligence (Investigation) check to find the trail sign.
+> Trail signs, including hidden signs, may be encountered as an exploration encounter in a hex the trail passes through.
+
 ##### Forager
 Active or Travel Watch (see below)
 Characters can forage during an active watch or while traveling at a slow pace. Foragers make a Wisdom (Survival) check against the Forage DC of the hex. On a success, the forager either gains 1 ration of food or finds a source of fresh water (allowing the expedition to drink their daily ration of water and for waterskins to be refilled). An additional ration of food or source of fresh water can be found for every 2 points by which the check result exceeds the DC.
