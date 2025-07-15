@@ -77,9 +77,9 @@ It is recommended that two watches are spent traveling, two watches spent restin
 | Normal      | 3 miles      | 12 miles (2 hexes)  | 24 miles (4 hexes) |
 | Slow        | 2 miles      | 9 miles (1.5 hexes) | 18 miles (3 hexes) |
 | Exploration | 1.5 miles    | 6 miles (1 hex)     | 12 miles (2 hexes) |
-> *Notes: 
->  - "Per day" on this table assumes travel for two watches (8 hours), i.e. a full day of travel without a forced march.
->  - A half-hex of travel distance is the distance from the center of a hex to its edge.*
+> *Notes:*
+> - *"Per day" on this table assumes travel for two watches (8 hours), i.e. a full day of travel without a forced march.*
+> - *A half-hex of travel distance is the distance from the center of a hex to its edge.*
 #### Watch Actions
 Watch actions are categorized into Travel, Active, or Rest. Tautologically, travel can only occur if all travelers are taking a Travel Watch action. Both Active and Rest watches are stationary.
 ##### Navigator
@@ -119,7 +119,7 @@ Travel Watch (slow pace only)
 Characters may blaze a trail while traveling at a slow pace. This marks a new trail through the wilderness with some form of signs: paint, simple carvings, cloth flags, etc. Such a trail can then be [[#Navigation by Landmark|easily followed]] by the trailblazers or a future expedition.
 **Hidden Signs**: The signs of a trail can be followed by any creature. When blazing a trail, however, the character making the signs can make a Wisdom (Stealth) check to disguise them so that they can only be noticed or found with a Wisdom (Perception) or Intelligence (Investigation) check.
 You don’t need to make a Wisdom (Perception) check to follow your own hidden signs or the hidden signs of a known trail you’ve followed before. Those who are aware of the trail’s existence but who have not followed it before gain advantage on their Wisdom (Perception) or Intelligence (Investigation) check to find the trail sign.
-> Trail signs, including hidden signs, may be encountered as an exploration encounter in a hex the trail passes through.
+> Trail signs, including hidden signs, may be encountered as an exploration encounter in a hex the trail passes through. Please remember to mark newly blazed trails in the appropriate hexes.
 
 ##### Forager
 Active or Travel Watch (see below)
