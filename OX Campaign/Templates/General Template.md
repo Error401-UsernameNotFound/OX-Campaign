@@ -1,5 +1,5 @@
 ```
-Created by {Author}: {Date}
+Created by {Author}: {{date}}
 ```
 Description:
 
