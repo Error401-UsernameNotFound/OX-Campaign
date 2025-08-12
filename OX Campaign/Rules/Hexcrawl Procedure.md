@@ -4,8 +4,9 @@ Moved by Aaron Brey: June 12, 2025
 Edited by Carl Hartmeyer: June 12, 2025 (v0.0.2)
 Moved again by Aaron Brey: June 13, 2025
 Edited by Carl Hartmeyer: Jun 24, 2025 (v0.1.0)
+Edited by Carl Hartmeyer: Aug 12, 2025 (v0.1.1)
 ```
-v0.1.0
+v0.1.1
 
 KEY PRINCIPLES
 - The hex key is locations, not encounters. (Specific keyed encounters often create context problems since we don't know what group of players will find them, and also need to be refreshed every single time they are encountered.)
@@ -80,6 +81,10 @@ It is recommended that two watches are spent traveling, two watches spent restin
 > *Notes:*
 > - *"Per day" on this table assumes travel for two watches (8 hours), i.e. a full day of travel without a forced march.*
 > - *A half-hex of travel distance is the distance from the center of a hex to its edge.*
+
+**Difficult Terrain**
+Some terrains, such as swamps or particularly dense forest, are considered difficult terrain. When traveling through a hex of difficult terrain, the party's travel speed is halved. Certain hexes, such as tall mountains, might reduce the party's overland speed even further.
+Travel along a road is not affected by terrain even if the surrounding hex would otherwise be considered difficult terrain. (Note that trails created via the [[#Trailblazer]] watch action are simply a series of navigational markers, and do not mitigate difficult terrain in this way.)
 #### Watch Actions
 Watch actions are categorized into Travel, Active, or Rest. Tautologically, travel can only occur if all travelers are taking a Travel Watch action. Both Active and Rest watches are stationary.
 ##### Navigator
@@ -119,7 +124,7 @@ Travel Watch (slow pace only)
 Characters may blaze a trail while traveling at a slow pace. This marks a new trail through the wilderness with some form of signs: paint, simple carvings, cloth flags, etc. Such a trail can then be [[#Navigation by Landmark|easily followed]] by the trailblazers or a future expedition.
 **Hidden Signs**: The signs of a trail can be followed by any creature. When blazing a trail, however, the character making the signs can make a Wisdom (Stealth) check to disguise them so that they can only be noticed or found with a Wisdom (Perception) or Intelligence (Investigation) check.
 You don’t need to make a Wisdom (Perception) check to follow your own hidden signs or the hidden signs of a known trail you’ve followed before. Those who are aware of the trail’s existence but who have not followed it before gain advantage on their Wisdom (Perception) or Intelligence (Investigation) check to find the trail sign.
-> Trail signs, including hidden signs, may be encountered as an exploration encounter in a hex the trail passes through. Please remember to mark newly blazed trails in the appropriate hexes.
+> Trail signs, including hidden signs, may be encountered as an exploration encounter in a hex the trail passes through. GMs, please remember to mark newly blazed trails in the appropriate hexes.
 
 ##### Forager
 Active or Travel Watch (see below)
